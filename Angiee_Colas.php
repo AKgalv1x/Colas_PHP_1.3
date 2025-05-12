@@ -8,7 +8,7 @@
 	array_push($hetalia, "Francia");
 	array_push($hetalia, "China");
 	array_push($hetalia, "Rusia");
-	array_push($hetalia, "Lithuania");
+	array_push($hetalia, "Lituania");
 	array_push($hetalia, "Estonia");
 	array_push($hetalia, "Polonia");
 	array_push($hetalia, "Alemania");
